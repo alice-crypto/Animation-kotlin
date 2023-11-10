@@ -1,0 +1,31 @@
+com.learnproject.animationkotlin.app-emoji2-views-helper-1.2.0-0 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\040441c4f6b0a4fe05aeab3599f3b82f\transformed\emoji2-views-helper-1.2.0\res
+com.learnproject.animationkotlin.app-activity-1.5.0-1 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\1448653604d36ad865f4294c618fff17\transformed\activity-1.5.0\res
+com.learnproject.animationkotlin.app-lifecycle-process-2.4.1-2 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\2fedbf8c74c9edc50a1bd4976a1d5f3e\transformed\lifecycle-process-2.4.1\res
+com.learnproject.animationkotlin.app-emoji2-1.2.0-3 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\res
+com.learnproject.animationkotlin.app-startup-runtime-1.1.1-4 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\404c5abac2f5aceef40f4cf146536d36\transformed\startup-runtime-1.1.1\res
+com.learnproject.animationkotlin.app-constraintlayout-2.1.4-5 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\4dae1036e86902b2f055441e14dfca0a\transformed\constraintlayout-2.1.4\res
+com.learnproject.animationkotlin.app-lifecycle-runtime-2.5.0-6 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\53734fea1d42e39f924a3a535ccf5439\transformed\lifecycle-runtime-2.5.0\res
+com.learnproject.animationkotlin.app-core-ktx-1.9.0-7 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\5491ac3847804173a46dcdec37a7c63f\transformed\core-ktx-1.9.0\res
+com.learnproject.animationkotlin.app-annotation-experimental-1.3.0-8 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\70d510d1ea77f94adf002972dd3d1d16\transformed\annotation-experimental-1.3.0\res
+com.learnproject.animationkotlin.app-lifecycle-viewmodel-2.5.0-9 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\733c72b0dbd0ee7a46aea4e10d133e17\transformed\lifecycle-viewmodel-2.5.0\res
+com.learnproject.animationkotlin.app-core-1.9.0-10 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\res
+com.learnproject.animationkotlin.app-fragment-1.3.6-11 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\872a6b8d5fdf7001b35089b05ea414ef\transformed\fragment-1.3.6\res
+com.learnproject.animationkotlin.app-appcompat-resources-1.5.0-12 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\87d8dbac8610dde7b777bda7fa8b555a\transformed\appcompat-resources-1.5.0\res
+com.learnproject.animationkotlin.app-viewpager2-1.0.0-13 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\99047600cbeb9b3ffb1220ce346acf38\transformed\viewpager2-1.0.0\res
+com.learnproject.animationkotlin.app-cardview-1.0.0-14 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\a89cefa91747914e015c9a64ed022f38\transformed\cardview-1.0.0\res
+com.learnproject.animationkotlin.app-lifecycle-viewmodel-savedstate-2.5.0-15 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\a92159578f79dd78b92c188bef0079d6\transformed\lifecycle-viewmodel-savedstate-2.5.0\res
+com.learnproject.animationkotlin.app-lifecycle-livedata-core-2.5.0-16 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\b48cdbbead66a43866e1339f9f16330a\transformed\lifecycle-livedata-core-2.5.0\res
+com.learnproject.animationkotlin.app-material-1.9.0-17 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\b84fd8e0913fbee5ea341511771bb46a\transformed\material-1.9.0\res
+com.learnproject.animationkotlin.app-savedstate-1.2.0-18 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\b9beffc118fc2e25670b21ca5c5ba5bd\transformed\savedstate-1.2.0\res
+com.learnproject.animationkotlin.app-transition-1.2.0-19 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\bec8f97fd8c9b19e268c9617924fa7f8\transformed\transition-1.2.0\res
+com.learnproject.animationkotlin.app-appcompat-1.5.0-20 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\d928195718abd13e48fb81b7d55b5978\transformed\appcompat-1.5.0\res
+com.learnproject.animationkotlin.app-coordinatorlayout-1.1.0-21 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\d95da1194ffd2151a112bad77d42821b\transformed\coordinatorlayout-1.1.0\res
+com.learnproject.animationkotlin.app-drawerlayout-1.1.1-22 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\e4beffb0de897e2df27746baefc47315\transformed\drawerlayout-1.1.1\res
+com.learnproject.animationkotlin.app-recyclerview-1.1.0-23 C:\Users\Alice_Crypto\.gradle\caches\transforms-3\e6f2c476c33bd0cbea0777f9e06f83ea\transformed\recyclerview-1.1.0\res
+com.learnproject.animationkotlin.app-pngs-24 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\build\generated\res\pngs\debug
+com.learnproject.animationkotlin.app-resValues-25 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\build\generated\res\resValues\debug
+com.learnproject.animationkotlin.app-packageDebugResources-26 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.learnproject.animationkotlin.app-packageDebugResources-27 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.learnproject.animationkotlin.app-merged_res-28 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\build\intermediates\merged_res\debug
+com.learnproject.animationkotlin.app-debug-29 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\src\debug\res
+com.learnproject.animationkotlin.app-main-30 C:\Users\Alice_Crypto\Desktop\animation kotlin\app\src\main\res

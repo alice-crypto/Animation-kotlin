@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blueOrigin
+color blueSecond
+color blueSoft
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color silver
+color white
+drawable bg_btn_primary
+drawable bg_item_result
+drawable ic_cards
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font mlight
+font mmedium
+id btn_next_course
+id headertitle
+id ic_cards
+id parent_result
+id subtitle
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AnimationKotlin
+style Theme.AnimationKotlin
+xml backup_rules
+xml data_extraction_rules

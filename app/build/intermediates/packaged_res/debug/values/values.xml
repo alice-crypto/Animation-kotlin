@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blueOrigin">#5482FC</color>
+    <color name="blueSecond">#132551</color>
+    <color name="blueSoft">#EAEFF9</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#5482FC</color>
+    <color name="silver">#9F9F9F</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">animation kotlin</string>
+    <style name="Base.Theme.AnimationKotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AnimationKotlin" parent="Base.Theme.AnimationKotlin"/>
+</resources>
